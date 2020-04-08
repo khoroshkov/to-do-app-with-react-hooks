@@ -1,0 +1,2 @@
+body{margin:0;padding:0}.todo{margin-bottom:1rem;transition:box-shadow .2s ease-in-out}.todo:hover{box-shadow:7px 9px 13px 0 hsla(0,0%,76.9%,.84)}.todo.completed span{text-decoration:line-through}.todo label{width:100%;display:flex;align-items:center;justify-content:space-between;cursor:pointer;background:#f3f3f3;padding:1rem}.todo i{z-index:2}
+/*# sourceMappingURL=main.d363f206.chunk.css.map */
